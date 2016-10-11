@@ -4,8 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>nl.kadaster.exp</groupId>
-    <artifactId>exp</artifactId>
+    <groupId>nl.sander</groupId>
+    <artifactId>rxjava2examples</artifactId>
     <version>0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
